@@ -9,6 +9,6 @@ Legal documents for apps published by **ArgusApps**.
 
 ---
 
-Operated by George Alexander, trading as ArgusApps. United Kingdom.
+Operated by George Alexander, trading as ArgusApps, United Kingdom.
 
 Contact: sirreignbatt3@gmail.com

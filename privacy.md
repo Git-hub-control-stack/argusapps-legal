@@ -24,11 +24,11 @@ ArgusApps is operated by a UK-based sole trader. For the purpose of UK GDPR and 
 
 ```
 George Alexander, trading as ArgusApps
-10 Chase Road, Corringham
-Stanford-le-Hope SS17 7QH
-Essex, United Kingdom
+United Kingdom
 Email: sirreignbatt3@gmail.com
 ```
+
+If you need to send formal correspondence by post, contact us at the email above and we will provide a postal address on request.
 
 ## 2. What data we collect
 
