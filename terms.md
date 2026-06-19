@@ -3,7 +3,7 @@
 **Effective date:** 2026-05-11.
 **Last updated:** 2026-06-19.
 
-By installing or using any app published by ArgusApps (each an "App", collectively the "Apps"), you agree to these Terms. This covers all apps in the ArgusApps portfolio, including Argus Scan and Argus Edit.
+By installing or using any app published by ArgusApps (each an "App", collectively the "Apps"), you agree to these Terms.
 
 ---
 

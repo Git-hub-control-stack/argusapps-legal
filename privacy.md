@@ -2,9 +2,7 @@
 
 **Effective date:** 2026-05-11.
 **Last updated:** 2026-06-19.
-**Apps:** This policy covers all apps published under the ArgusApps brand, including:
-- Argus Scan (package `dev.appengine.app_001_document_scanner`) - document scanner with OCR
-- Argus Edit (package `dev.appengine.app_002_photo_editor`) - photo editor with background removal
+**Apps:** This policy covers all apps published under the ArgusApps brand.
 
 **Developer:** ArgusApps, sole trader, United Kingdom.
 **Contact:** sirreignbatt3@gmail.com
@@ -37,10 +35,7 @@ If you need to send formal correspondence by post, contact us at the email above
 
 ### 2.1 Your content - we do not collect it
 
-All content you create or import stays on your device:
-
-- **Argus Scan:** Document images and any text recognized from them (OCR) are processed entirely on your device using on-device machine learning (Google ML Kit). We never receive, transmit, or store your document contents.
-- **Argus Edit:** Photos you edit, crop, annotate, or enhance stay on your device. Background removal and other image processing use on-device machine learning models that run locally - your photos are never sent to any server.
+All content you create or import - documents, photos, edits - stays on your device. Any processing (OCR, background removal, image editing, etc.) uses on-device machine learning or local computation. We never receive, transmit, or store your content on any server.
 
 Content is stored in app-managed storage or where you choose to save it via the Android Storage Access Framework.
 
@@ -84,16 +79,11 @@ If you buy the lifetime ad-removal, the purchase is processed by Google Play. We
 
 ### 2.5 On-device machine learning
 
-Some features use machine learning models that run entirely on your device:
-
-- **OCR** (Argus Scan): Google ML Kit Text Recognition processes document images locally to extract text. No images or text are sent to Google's servers.
-- **Background removal** (Argus Edit): Google ML Kit Selfie/Subject Segmentation processes photos locally to separate foreground from background. No images are sent to Google's servers.
-
-These models are bundled with the app or downloaded once via Google Play Services. The ML processing itself is fully offline and local.
+Some features use machine learning models (such as Google ML Kit) that run entirely on your device for tasks like text recognition, background removal, and image segmentation. No images or content are sent to external servers for ML processing. These models are bundled with the app or downloaded once via Google Play Services. The ML processing itself is fully offline and local.
 
 ### 2.6 Permissions we ask for
 
-- **Camera:** used for capturing documents (Scan) or photos to edit (Edit). If denied, you can use the gallery-picker fallback in both apps.
+- **Camera:** used for capturing content (documents, photos). If denied, you can use the gallery-picker fallback.
 - **Storage Access Framework:** you choose the file when you import or export. We do not request `MANAGE_EXTERNAL_STORAGE` and we do not browse your storage.
 - **Internet:** required for serving ads and for the optional crash-report transmission.
 
