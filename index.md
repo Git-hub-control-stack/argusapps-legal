@@ -1,11 +1,11 @@
 # ArgusApps - Legal Documents
 
-Legal documents for apps published by **ArgusApps**.
+Legal documents for all apps published by **ArgusApps**, including Argus Scan and Argus Edit.
 
 - [Privacy Policy](privacy.md)
 - [Terms of Service](terms.md)
 
-**Effective:** 2026-05-11
+**Last updated:** 2026-06-19
 
 ---
 
